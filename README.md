@@ -1,5 +1,3 @@
-===================================================================================================================================
-
 Hi! My name is Aditya and I'm a sophomore at the University of Illinois Urbana Champaign. I'm currently pursuing a major in Computer Science. My repos mostly consist of personal projects for learning and fun!
 
 *   🌍  I'm based in Urbana-Champaign, Illinois
